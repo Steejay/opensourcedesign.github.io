@@ -141,6 +141,7 @@ Things](http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107
 * [Design principles for UI/UX](http://learndesignprinciples.com/)
 
 
+
 ## Open Source and Design Reads
 
 * [Free Software UI (2002)](http://ometer.com/free-software-ui.html)
@@ -166,6 +167,7 @@ Follow up to the above article.
 * [Barriers for
 Designers](http://designopen.org/articles/barriers-for-designers/) What barriers
 designers face when contributing to Open Source.
+* [Design x Us](https://www.designxus.org/)
 
 
 ## Other nice stuff in the design + open source space
